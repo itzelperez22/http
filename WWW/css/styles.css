@@ -1,0 +1,23 @@
+p {
+    color: blue;
+    font-size: medium;
+}
+#parrafo-inicial{
+    color: red;
+    font-size: large;
+}
+h1{
+    text-align: center;
+    background-color: blueviolet;
+}
+.primer-elemento{
+    border: 2px solid;
+}
+img[src]{
+    border: 1px purple solid;
+    height: 200px;
+    width: 200px;
+}
+#titulo{
+    text-align: center;
+}
